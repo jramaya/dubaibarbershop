@@ -66,7 +66,7 @@ ul{margin-top:0;margin-bottom:10px;}
 @media (min-width:768px) and (max-width:991px){
 .hidden-sm{display:none!important;}
 }
-/*! CSS Used from: http://localhost:8088/style.min.css */
+/*! CSS Used from: https://dubaibarbershop.com/style.min.css */
 #logo img,img{max-width:100%;}
 #wrapper{position:relative;}
 #header-wrap,.slider-parallax,.video-overlay{-webkit-backface-visibility:hidden;}
@@ -147,7 +147,7 @@ body:not(.side-header) .slider-parallax .slider-parallax-inner{left:0;}
 .slider-parallax .slider-parallax-inner{will-change:transform;-webkit-transform:translate3d(0,0,0);-webkit-transition:transform 0s linear;-webkit-backface-visibility:hidden;}
 .section .video-wrap{position:absolute;width:100%;height:100%;z-index:-1;top:0;left:0;}
 .video-wrap{width:100%;position:relative;}
-.video-overlay{position:absolute;width:100%;height:100%;top:0;left:0;z-index:5;background:url(http://localhost:8088/images/grid.png);}
+.video-overlay{position:absolute;width:100%;height:100%;top:0;left:0;z-index:5;background:url(https://dubaibarbershop.com/images/grid.png);}
 #content,#content .container,.content-wrap{position:relative;}
 #content{background-color:#FFF;}
 #content p{line-height:1.8;}
@@ -219,7 +219,7 @@ body:not(.device-touch) #gotoTop{transition:background-color .2s linear;-webkit-
 #footer .footer-widgets-wrap{position:relative;padding:80px 0;}
 .stretched #wrapper{width:100%;margin:0;box-shadow:none;}
 body:not(.no-transition) #wrapper{position:relative;opacity:0;-webkit-animation-fill-mode:both;animation-fill-mode:both;}
-/*! CSS Used from: http://localhost:8088/css/dark.css */
+/*! CSS Used from: https://dubaibarbershop.com/css/dark.css */
 .dark,.dark h2,.dark h3{color:#EEE;}
 .dark a:hover{color:#EEE;}
 .section.dark{background-color:#282828;border-color:rgba(255,255,255,0.1);}
@@ -242,7 +242,7 @@ body:not(.no-transition) #wrapper{position:relative;opacity:0;-webkit-animation-
 body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul li{border-top-color:#EEE!important;}
 body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li:hover a{color:#1ABC9C!important;}
 }
-/*! CSS Used from: http://localhost:8088/barber.css */
+/*! CSS Used from: https://dubaibarbershop.com/barber.css */
 nav.custom-hero-nav{display:none;}
 .button.button-large.button-color.button-appointment,.slider-social{position:absolute;top:20px;right:20px;z-index:200;}
 .slider-social{right:auto;left:20px;top:25px;}
@@ -279,17 +279,17 @@ nav.custom-hero-nav li.active a,nav.custom-hero-nav li:hover a{color:#bf9456;}
 #primary-menu .button{margin:7px 0 0;}
 .price-wrap{padding:0 25px;}
 }
-/*! CSS Used from: http://localhost:8088/css/fonts.css */
+/*! CSS Used from: https://dubaibarbershop.com/css/fonts.css */
 body,.team-title span{font-family:'PT Sans', sans-serif;}
 h2,h3,h4,#logo,#primary-menu ul li > a,.button{font-family:'PT Sans Caption', sans-serif;}
 .team-title span,.font-serif{font-family:'PT Serif', serif!important;}
-/*! CSS Used from: http://localhost:8088/css/font-icons.css */
+/*! CSS Used from: https://dubaibarbershop.com/css/font-icons.css */
 [class^="icon-"]{display:inline-block;font-family:'font-icons';speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:inherit;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
 .icon-calendar2:before{content:"\e6ba";}
 .icon-facebook:before{content:"\e86f";}
 .icon-reorder:before{content:"\e76d";}
 .icon-angle-up:before{content:"\e7a6";}
-/*! CSS Used from: http://localhost:8088/css/responsive.css */
+/*! CSS Used from: https://dubaibarbershop.com/css/responsive.css */
 @media (min-width: 992px) and (max-width: 1199px){
 #wrapper{width:1000px;}
 }
@@ -348,7 +348,7 @@ only screen and (                min-resolution: 2dppx) and (max-width: 991px){
 #logo a.standard-logo{display:none;}
 #logo a.retina-logo{display:inline-block;}
 }
-/*! CSS Used from: http://localhost:8088/css/colors.css */
+/*! CSS Used from: https://dubaibarbershop.com/css/colors.css */
 ::selection{background:#bf9456;}
 ::-moz-selection{background:#bf9456;}
 ::-webkit-selection{background:#bf9456;}
@@ -358,9 +358,9 @@ a,#primary-menu ul li:hover > a,.feature-box.fbox-plain .fbox-icon img,.team-tit
 @media only screen and (max-width: 991px){
 	body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li:hover a{color:#bf9456!important;}
 	}
-/*! CSS Used from: http://localhost:8088/css/custom.css */
+/*! CSS Used from: https://dubaibarbershop.com/css/custom.css */
 #cta-bottom{position:relative;margin-top:-60px!important;}
-/*! CSS Used from: http://localhost:8088/css/combined.css */
+/*! CSS Used from: https://dubaibarbershop.com/css/combined.css */
 html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
 body{margin:0;}
 footer,header,nav,section{display:block;}
@@ -507,7 +507,7 @@ body:not(.side-header) .slider-parallax .slider-parallax-inner{left:0;}
 .slider-parallax .slider-parallax-inner{will-change:transform;-webkit-transform:translate3d(0,0,0);-webkit-transition:transform 0s linear;-webkit-backface-visibility:hidden;}
 .section .video-wrap{position:absolute;width:100%;height:100%;z-index:-1;top:0;left:0;}
 .video-wrap{width:100%;position:relative;}
-.video-overlay{position:absolute;width:100%;height:100%;top:0;left:0;z-index:5;background:url(http://localhost:8088/images/grid.png);}
+.video-overlay{position:absolute;width:100%;height:100%;top:0;left:0;z-index:5;background:url(https://dubaibarbershop.com/images/grid.png);}
 #content,#content .container,.content-wrap{position:relative;}
 #content{background-color:#FFF;}
 #content p{line-height:1.8;}
@@ -850,7 +850,7 @@ body:not(.top-search-open) #primary-menu-trigger{opacity:1;-webkit-transition:op
 	.slider-parallax .slider-parallax-inner{will-change:transform;-webkit-transform:translate3d(0,0,0);-webkit-transition:transform 0s linear;-webkit-backface-visibility:hidden;}
 	.section .video-wrap{position:absolute;width:100%;height:100%;z-index:-1;top:0;left:0;}
 	.video-wrap{width:100%;position:relative;}
-	.video-overlay{position:absolute;width:100%;height:100%;top:0;left:0;z-index:5;background:url(http://localhost:8088/images/grid.png);}
+	.video-overlay{position:absolute;width:100%;height:100%;top:0;left:0;z-index:5;background:url(https://dubaibarbershop.com/images/grid.png);}
 	#content,#content .container,.content-wrap{position:relative;}
 	#content{background-color:#FFF;}
 	#content p{line-height:1.8;}
@@ -1185,7 +1185,7 @@ body:not(.side-header) .slider-parallax .slider-parallax-inner{left:0;}
 .slider-parallax .slider-parallax-inner{will-change:transform;-webkit-transform:translate3d(0,0,0);-webkit-transition:transform 0s linear;-webkit-backface-visibility:hidden;}
 .section .video-wrap{position:absolute;width:100%;height:100%;z-index:-1;top:0;left:0;}
 .video-wrap{width:100%;position:relative;}
-.video-overlay{position:absolute;width:100%;height:100%;top:0;left:0;z-index:5;background:url(http://localhost:8088/images/grid.png);}
+.video-overlay{position:absolute;width:100%;height:100%;top:0;left:0;z-index:5;background:url(https://dubaibarbershop.com/images/grid.png);}
 #content,#content .container,.content-wrap{position:relative;}
 #content{background-color:#FFF;}
 #content p{line-height:1.8;}
@@ -1519,7 +1519,7 @@ body:not(.side-header) .slider-parallax .slider-parallax-inner{left:0;}
 .slider-parallax .slider-parallax-inner{will-change:transform;-webkit-transform:translate3d(0,0,0);-webkit-transition:transform 0s linear;-webkit-backface-visibility:hidden;}
 .section .video-wrap{position:absolute;width:100%;height:100%;z-index:-1;top:0;left:0;}
 .video-wrap{width:100%;position:relative;}
-.video-overlay{position:absolute;width:100%;height:100%;top:0;left:0;z-index:5;background:url(http://localhost:8088/images/grid.png);}
+.video-overlay{position:absolute;width:100%;height:100%;top:0;left:0;z-index:5;background:url(https://dubaibarbershop.com/images/grid.png);}
 #content,#content .container,.content-wrap{position:relative;}
 #content{background-color:#FFF;}
 #content p{line-height:1.8;}
@@ -1805,23 +1805,23 @@ a,#primary-menu ul li:hover > a,.feature-box.fbox-plain .fbox-icon img,.team-tit
 @font-face{font-family:'PT Sans';font-style:normal;font-weight:700;src:local('PT Sans Bold'), local('PTSans-Bold'), url(http://fonts.gstatic.com/s/ptsans/v9/jizfRExUiTo99u79B_mh0OqtLR8a8zILig.woff2) format('woff2');unicode-range:U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}
 @font-face{font-family:'PT Sans';font-style:normal;font-weight:700;src:local('PT Sans Bold'), local('PTSans-Bold'), url(http://fonts.gstatic.com/s/ptsans/v9/jizfRExUiTo99u79B_mh0OCtLR8a8zILig.woff2) format('woff2');unicode-range:U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}
 @font-face{font-family:'PT Sans';font-style:normal;font-weight:700;src:local('PT Sans Bold'), local('PTSans-Bold'), url(http://fonts.gstatic.com/s/ptsans/v9/jizfRExUiTo99u79B_mh0O6tLR8a8zI.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
-@font-face{font-family:'font-icons';src:url(http://localhost:8088/css/fonts/font-icons.eot);src:url(http://localhost:8088/css/fonts/font-icons.eot) format('embedded-opentype'),
-		url(http://localhost:8088/css/fonts/font-icons.woff) format('woff'),
-		url(http://localhost:8088/css/fonts/font-icons.ttf) format('truetype'),
-		url(http://localhost:8088/css/fonts/font-icons.svg) format('svg');font-weight:normal;font-style:normal;}
-@font-face{font-family:'font-icons';src:url(http://localhost:8088/css/fonts/font-icons.eot);src:url(http://localhost:8088/css/fonts/font-icons.eot) format('embedded-opentype'),
-		url(http://localhost:8088/css/fonts/font-icons.woff) format('woff'),
-		url(http://localhost:8088/css/fonts/font-icons.ttf) format('truetype'),
-		url(http://localhost:8088/css/fonts/font-icons.svg) format('svg');font-weight:normal;font-style:normal;}
-@font-face{font-family:'font-icons';src:url(http://localhost:8088/css/fonts/font-icons.eot);src:url(http://localhost:8088/css/fonts/font-icons.eot) format('embedded-opentype'),
-		url(http://localhost:8088/css/fonts/font-icons.woff) format('woff'),
-		url(http://localhost:8088/css/fonts/font-icons.ttf) format('truetype'),
-		url(http://localhost:8088/css/fonts/font-icons.svg) format('svg');font-weight:normal;font-style:normal;}
-@font-face{font-family:'font-icons';src:url(http://localhost:8088/css/fonts/font-icons.eot);src:url(http://localhost:8088/css/fonts/font-icons.eot) format('embedded-opentype'),
-		url(http://localhost:8088/css/fonts/font-icons.woff) format('woff'),
-		url(http://localhost:8088/css/fonts/font-icons.ttf) format('truetype'),
-		url(http://localhost:8088/css/fonts/font-icons.svg) format('svg');font-weight:normal;font-style:normal;}
-		@font-face{font-family:'font-icons';src:url(http://localhost:8088/css/fonts/font-icons.eot);src:url(http://localhost:8088/css/fonts/font-icons.eot) format('embedded-opentype'),
-			url(http://localhost:8088/css/fonts/font-icons.woff) format('woff'),
-			url(http://localhost:8088/css/fonts/font-icons.ttf) format('truetype'),
-			url(http://localhost:8088/css/fonts/font-icons.svg) format('svg');font-weight:normal;font-style:normal;}
+@font-face{font-family:'font-icons';src:url(https://dubaibarbershop.com/css/fonts/font-icons.eot);src:url(https://dubaibarbershop.com/css/fonts/font-icons.eot) format('embedded-opentype'),
+		url(https://dubaibarbershop.com/css/fonts/font-icons.woff) format('woff'),
+		url(https://dubaibarbershop.com/css/fonts/font-icons.ttf) format('truetype'),
+		url(https://dubaibarbershop.com/css/fonts/font-icons.svg) format('svg');font-weight:normal;font-style:normal;}
+@font-face{font-family:'font-icons';src:url(https://dubaibarbershop.com/css/fonts/font-icons.eot);src:url(https://dubaibarbershop.com/css/fonts/font-icons.eot) format('embedded-opentype'),
+		url(https://dubaibarbershop.com/css/fonts/font-icons.woff) format('woff'),
+		url(https://dubaibarbershop.com/css/fonts/font-icons.ttf) format('truetype'),
+		url(https://dubaibarbershop.com/css/fonts/font-icons.svg) format('svg');font-weight:normal;font-style:normal;}
+@font-face{font-family:'font-icons';src:url(https://dubaibarbershop.com/css/fonts/font-icons.eot);src:url(https://dubaibarbershop.com/css/fonts/font-icons.eot) format('embedded-opentype'),
+		url(https://dubaibarbershop.com/css/fonts/font-icons.woff) format('woff'),
+		url(https://dubaibarbershop.com/css/fonts/font-icons.ttf) format('truetype'),
+		url(https://dubaibarbershop.com/css/fonts/font-icons.svg) format('svg');font-weight:normal;font-style:normal;}
+@font-face{font-family:'font-icons';src:url(https://dubaibarbershop.com/css/fonts/font-icons.eot);src:url(https://dubaibarbershop.com/css/fonts/font-icons.eot) format('embedded-opentype'),
+		url(https://dubaibarbershop.com/css/fonts/font-icons.woff) format('woff'),
+		url(https://dubaibarbershop.com/css/fonts/font-icons.ttf) format('truetype'),
+		url(https://dubaibarbershop.com/css/fonts/font-icons.svg) format('svg');font-weight:normal;font-style:normal;}
+		@font-face{font-family:'font-icons';src:url(https://dubaibarbershop.com/css/fonts/font-icons.eot);src:url(https://dubaibarbershop.com/css/fonts/font-icons.eot) format('embedded-opentype'),
+			url(https://dubaibarbershop.com/css/fonts/font-icons.woff) format('woff'),
+			url(https://dubaibarbershop.com/css/fonts/font-icons.ttf) format('truetype'),
+			url(https://dubaibarbershop.com/css/fonts/font-icons.svg) format('svg');font-weight:normal;font-style:normal;}
